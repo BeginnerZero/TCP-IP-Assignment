@@ -2,8 +2,8 @@
 
 TTP3121 TCP/IP Programming - Assignment
 
-Group Name   : BeginnerZero
-Group Members: 1) H'ng Jaan Lin	  1122701742
+Group Name   : BeginnerZero     
+Group Members: 1) H'ng Jaan Lin	  1122701742            
 	       2) Lim Zhen Yang   1122701265
 
 
